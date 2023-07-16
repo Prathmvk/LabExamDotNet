@@ -1,0 +1,15 @@
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\bin\Debug\net7.0\LabExamQ1.exe
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\bin\Debug\net7.0\LabExamQ1.deps.json
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\bin\Debug\net7.0\LabExamQ1.runtimeconfig.json
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\bin\Debug\net7.0\LabExamQ1.dll
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\bin\Debug\net7.0\LabExamQ1.pdb
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.csproj.AssemblyReference.cache
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.AssemblyInfoInputs.cache
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.AssemblyInfo.cs
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.csproj.CoreCompileInputs.cache
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.dll
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\refint\LabExamQ1.dll
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.pdb
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\LabExamQ1.genruntimeconfig.cache
+E:\CDAC\7. MS.NET\Programs\LabExamQ1\LabExamQ1\obj\Debug\net7.0\ref\LabExamQ1.dll
